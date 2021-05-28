@@ -32,11 +32,11 @@ function Project() {
             description: 'A website for a local food festival providing guest information'
         },
         {
-            href: 'https://github.com/MylesKovacs/NoteTwoker',
-            src: 'https://i.imgur.com/o1vdCas.jpg',
-            hrefTwo: 'https://afternoon-basin-98983.herokuapp.com/',
-            name: 'Note Taker',
-            description: 'Note taking application to allow better time management'
+            href: 'https://github.com/rolanduwxcc/family-graph',
+            src: 'https://imgur.com/a/bsqnPYe',
+            hrefTwo: 'https://blooming-reaches-99223.herokuapp.com/',
+            name: 'FamilyGraph',
+            description: 'A family tree building website'
         },
         {
             href: 'https://github.com/MylesKovacs/Password-generator',
